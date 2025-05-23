@@ -1,1 +1,1 @@
-# Project1-AI-Dungeon-Story-Generator--Project2-AI-Fitness-Coach
+# Project1-AI-Dungeon-Story-Generator
